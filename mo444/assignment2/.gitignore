@@ -1,0 +1,8 @@
+*.csv
+train/*
+train_small/*
+train_all/*
+test/*
+test_small/*
+test_all/*
+
